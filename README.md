@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Disney-Plus Clone](https://github.com/EternalCoderss/disney-plus-clone)**
+- 🔭 I’m currently working on **[Disney-Plus Clone](https://github.com/EternalCoderss/cp-disney-plus-clone)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
