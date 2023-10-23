@@ -66,6 +66,10 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EternalCoderss" alt="EternalCoderss" /></a> </p>
 
+##DevCard
+<div align="left">
+<a href="https://app.daily.dev/shivi_choudhary"><img src="https://api.daily.dev/devcards/da961014416a470ab5baef9110c03e44.png?r=vbm" width="400" alt="Shivi_codes's Dev Card"/></a>
+</div>
 ## Connect with me:
 <p align="left">
 
