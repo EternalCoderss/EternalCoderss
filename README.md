@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Disney-Plus Clone](https://eternalcoderss.github.io/obys-agency/)**
+- 🔭 I’m currently working on **[Obys Agency](https://eternalcoderss.github.io/obys-agency/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
